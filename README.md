@@ -1,0 +1,2 @@
+# Percobaan_Sistem_Rekomendasi_Dengan_Surprise
+Repositori ini berisi mengenai percobaan sistem rekomendasi menggunakan surprise
